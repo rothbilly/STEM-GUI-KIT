@@ -5,7 +5,7 @@ An open source GUI design system and GUI KIT for STEM projects
 
 ## Download
 
-Single File: [Stem GUI KIT Sprites](STEMGUI_AssetPack.zip)
+Single File: [Stem GUI KIT Sprites](STEMGUI_AssetPack.zip)\n
 Unity Package: [Stem GUI KIT (WIP)](unity/STEMUI_AssetsPack.unitypackage)
 
 ## Feature Roadmap
